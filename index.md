@@ -76,6 +76,5 @@ To improve safety and reduce noise pollution in village areas:
 * maximum vehicle weight including passengers and cargo is 300 pounds
 * maximum speed is 25 mph 
 * human powered transport like bicycles, recumbant trikes, and velomobiles are encouraged
-* vehicle-to-vehicle communication systems are required
 
  
