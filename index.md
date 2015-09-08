@@ -23,8 +23,7 @@ Goals are to improve food security, land use, as well as energy and resource eff
 
 The core idea is to subdivide each  residential surburban 
 lot into 9 lots.  Given a typical lot size of 60'x60',
-that means each plot is 18'x18' with 6' on the side in the center
-for passage.
+that means each plot is 18'x18' with two 6' passages.
 
 <img src="vill.png" width="600px"/>
 
@@ -49,11 +48,11 @@ passive/efficient requirements such as maximal insulation, airtight
 construction with HRV, cooling tubes or heat pump, solar,
 energy storage, greywater recyling, etc.
 
-## Localing Food Production
+## Localizing Food Production
 
 Regulations can specify efficient agricultural methods such as
-advanced permaculture, aquaponics, aeroponics, and vertical 
-farming.
+advanced permaculture, aquaponics, aeroponics, hydroponics, 
+and vertical farming.
 
 ## Village Sections and Road Safety
 
@@ -69,4 +68,5 @@ To improve safety and reduce noise pollution in village areas:
 * maximum speed is 25 mph 
 * human powered transport like bicycles, recumbant trikes, and velomobiles are encouraged
 * vehicle-to-vehicle communication systems are required
+
  
