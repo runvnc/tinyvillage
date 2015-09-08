@@ -13,8 +13,6 @@ body {
 
 </style>
 
-<
-
 # Tiny Village
 
 ## Goals
@@ -28,7 +26,7 @@ plot into 9 lots.  Given a typical lot size of 60'x60',
 that means each plot is 18'x18' with 6' on the side in the center
 for passage.
 
-<img src="vill.png"/>
+<img src="vill.png" width="600px" style="padding-top:-100px;"/>
 
 ## Subdivision Zoning
 
