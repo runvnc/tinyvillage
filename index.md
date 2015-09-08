@@ -46,7 +46,10 @@ to a maximum of two stories.
 Regulations for residential construction can specify 
 passive/efficient requirements such as maximal insulation, airtight 
 construction with HRV, cooling tubes or heat pump, solar,
-energy storage, greywater recyling, etc.
+energy storage, greywater recyling, etc. 
+
+Separate structures will reduce noise pollution and increase
+privacy when compared to attached units.
 
 ## Localizing Food Production
 
@@ -54,12 +57,17 @@ Regulations can specify efficient agricultural methods such as
 advanced permaculture, aquaponics, aeroponics, hydroponics, 
 and vertical farming.
 
-## Village Sections and Road Safety
+## Village Sections
 
 Ideally several suburban plots together are each subdivided.
 For example, to start small, suppose six homes at one end of a
-street convert.  This part of the street is barricaded to 
-prevent normal vehicle traffic from entering.
+street convert.  What was originally just 6 large residences 
+becomes 24 tiny homes(/businesses), 18 agricultural spaces,
+and 12 commercial spaces.  
+
+## Road Safety
+
+This part of the street is barricaded to prevent normal vehicle traffic from entering.
 
 To improve safety and reduce noise pollution in village areas:
  
