@@ -63,7 +63,8 @@ Ideally several suburban plots together are each subdivided.
 For example, to start small, suppose six homes at one end of a
 street convert.  What was originally just 6 large residences 
 becomes 24 tiny homes(/businesses), 18 agricultural spaces,
-and 12 commercial spaces.  
+and 12 commercial spaces, for a total of 54 spaces.  Land use
+is improved by 800%.  
 
 ## Road Safety
 
