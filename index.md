@@ -22,12 +22,51 @@ Goals are to improve food security, land use, as well as energy and resource eff
 ## Subvivision of Surburban Plots
 
 The core idea is to subdivide each  residential surburban 
-plot into 9 lots.  Given a typical lot size of 60'x60',
+lot into 9 lots.  Given a typical lot size of 60'x60',
 that means each plot is 18'x18' with 6' on the side in the center
 for passage.
 
-<img src="vill.png" width="600px" style="position:relative; margin-top:-100px;"/>
+<img src="vill.png" width="600px"/>
 
 ## Subdivision Zoning
 
+Mixed-use zoning helps implement the project goals.  Each 
+subdivision is required to contain the following zones:
 
+* 4 residential (optionally with commercial in the same space)(R [C])
+* 3 high-tech agricultural (co-op or commercial)
+* 2 commercial
+
+This zoning ensures that each subdivision has a minimum of 
+agricultural space, commercial space, and also encourages people
+to run businesses out of their homes.  Structure height is limited
+to a maximum of two stories.
+
+## Passive Tiny Homes
+
+Regulations for residential construction can specify 
+passive/efficient requirements such as maximal insulation, airtight 
+construction with HRV, cooling tubes or heat pump, solar,
+energy storage, greywater recyling, etc.
+
+## Localing Food Production
+
+Regulations can specify efficient agricultural methods such as
+advanced permaculture, aquaponics, aeroponics, and vertical 
+farming.
+
+## Village Sections and Road Safety
+
+Ideally several suburban plots together are each subdivided.
+For example, to start small, suppose six homes at one end of a
+street convert.  This part of the street is barricaded to 
+prevent normal vehicle traffic from entering.
+
+To improve safety and reduce noise pollution in village areas:
+ 
+* combustion engines are prohibited
+* maximum vehicle weight including passengers and cargo is 300 pounds
+* maximum speed is 25 mph 
+* human powered transport like bicycles, recumbant trikes, and velomobiles are encouraged
+* vehicle-to-vehicle communication systems are required
+ 
