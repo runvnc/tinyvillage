@@ -19,7 +19,7 @@ body {
 
 Goals are to improve food security, land use, as well as energy and resource efficiency, reduce commute times, reduce injury and deaths from vehicle accidents, and overall increase quality of life.
 
-## Subvivision of Surburban Plots
+## Subvivision of Surburban Lots
 
 The core idea is to subdivide each  residential surburban 
 lot into 9 lots.  Given a typical lot size of 60'x60',
