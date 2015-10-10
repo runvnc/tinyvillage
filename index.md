@@ -3,8 +3,8 @@
 <style>
 body, p, div, html {
   font-family: 'Titillium Web', sans-serif;
-  color: #a0b0b0;
-  background-color: #475050;
+  /* color: #a0b0b0;
+  background-color: #475050;*/
 }
 
 body {
