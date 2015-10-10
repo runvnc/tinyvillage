@@ -13,13 +13,13 @@ body {
 
 </style>
 
-# Tiny Village
+# Tiny Village: Horizontally Scaling Society
 
 ## Introduction
 
 Sustainability means moving away from the infinite growth paradigm towards one where resources are recognized as being finite.  One of those key resources for human society is land.  In my opinion, land usage in modern suburbia is amazingly bad, and suburban land is one of the most underutilized resources remaining.
 
-Suburban homes have tended recently towards growing larger and larger.  This means increasing use of resources for heating and cooling of rooms that usually mostly empty space.  At the same time, anywhere land is not obviously at a premium, homes often have large back yards.  These back yards are blank spaces in our sustainability plan.  About 95% of the time they are used mainly as a place for the family dog to defecate.  5% of the time a child plays there, and another 5% of the time someone putters in a tiny garden that produces next to nothing.  Often back yards are mainly for vanity.
+Suburban homes have tended recently towards growing larger and larger.  This means increasing use of resources for heating and cooling of rooms that usually are mostly empty space.  At the same time, anywhere land is not obviously at a premium, homes often have large back yards.  These back yards are blank spaces in our sustainability plan.  About 95% of the time they are used mainly as a place for the family dog to defecate.  5% of the time a child plays there, and another 5% of the time someone putters in a tiny garden that produces next to nothing.  Often back yards are mainly for vanity.
 
 ## Commuting
 
@@ -42,7 +42,7 @@ Some people may be familiar with "cloud" computing.  Cloud computing is all abou
 
 The advantage of this is that it takes less initial investment and is easier to incrementally scale up as you go.
 
-I propose that we move our human development and zoning towards a similar horizontal scaling architecture.  Instead of putting all of our giant suburban houses in giant suburbs separated by miles from massive agricultural spaces and separate from massive office and industrial areas, lets create smaller self-contained units for everything.  So we can have tiny houses, and near them the supporting tiny agriculture and tiny offices and tiny retaili places. 
+I propose that we move our human development and zoning towards a similar horizontal scaling architecture.  Instead of putting all of our giant suburban houses in giant suburbs separated by miles from massive agricultural spaces and separate from massive office and industrial areas, lets create smaller self-contained units for everything.  So we can have tiny houses, and near them the supporting tiny agriculture and tiny offices and tiny retail places. 
 
 ## Goals
 
