@@ -1,6 +1,6 @@
 # Tiny Village: Horizontally Scaling Society
 
-<x-gif speed="0.5" n-times="1.0" src="intro.gif"></x-gif>
+<img src="intro.gif"></x-gif>
 
 ## Introduction
 
