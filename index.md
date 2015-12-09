@@ -15,6 +15,8 @@ body {
 
 # Tiny Village: Horizontally Scaling Society
 
+<img src="intro.gif"/>
+
 ## Introduction
 
 Sustainability means moving away from the infinite growth paradigm towards one where resources are recognized as being finite.  One of those key resources for human society is land.  In my opinion, land usage in modern suburbia is amazingly bad, and suburban land is one of the most underutilized resources remaining.
