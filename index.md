@@ -25,7 +25,7 @@ body {
 
 # Tiny Village: Horizontally Scaling Society
 
-<x-gif speed="0.5" n-times="3.0" src="intro.gif"></x-gif>
+<x-gif speed="0.5" n-times="1.0" src="intro.gif"></x-gif>
 
 ## Introduction
 
