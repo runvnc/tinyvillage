@@ -1,15 +1,15 @@
-<p><script>
-  if (&#39;registerElement&#39; in document
-    &amp;&amp; &#39;createShadowRoot&#39; in HTMLElement.prototype
-    &amp;&amp; &#39;import&#39; in document.createElement(&#39;link&#39;)
-    &amp;&amp; &#39;content&#39; in document.createElement(&#39;template&#39;)) {
-    // We&#39;re using a browser with native WC support!
+<script>
+  if ('registerElement' in document
+    && 'createShadowRoot' in HTMLElement.prototype
+    && 'import' in document.createElement('link')
+    && 'content' in document.createElement('template')) {
+    // We're using a browser with native WC support!
   } else {
-    document.write(&#39;<script src="https:\/\/cdnjs.cloudflare.com/ajax/libs/polymer/0.3.4/platform.js">&lt;\/script&gt;&#39;)
+    document.write('<script src="https:\/\/cdnjs.cloudflare.com/ajax/libs/polymer/0.3.4/platform.js"><\/script>')
   }
-</script></p>
-<p><link rel="import" href="x-gif.html"></p>
-<p><p><link rel="stylesheet" href="css/main.css"/></p></p>
+</script>
+<link rel="import" href="x-gif.html">
+<p><link rel="stylesheet" href="css/main.css"/></p>
 <style>
 body, p, div, html {
   font-family: 'Titillium Web', sans-serif;
