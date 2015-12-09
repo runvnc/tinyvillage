@@ -1,4 +1,14 @@
-
+<script>
+  if ('registerElement' in document
+    && 'createShadowRoot' in HTMLElement.prototype
+    && 'import' in document.createElement('link')
+    && 'content' in document.createElement('template')) {
+    // We're using a browser with native WC support!
+  } else {
+    document.write('<script src="https:\/\/cdnjs.cloudflare.com/ajax/libs/polymer/0.3.4/platform.js"><\/script>')
+  }
+</script>
+<link rel="import" href="x-gif.html">
 <p><link rel="stylesheet" href="css/main.css"/></p>
 <style>
 body, p, div, html {
@@ -15,7 +25,7 @@ body {
 
 # Tiny Village: Horizontally Scaling Society
 
-<img src="intro.gif"/>
+<x-gif speed="0.5" n-times="3.0" src="intro.gif"></x-gif>
 
 ## Introduction
 

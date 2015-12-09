@@ -1,3 +1,14 @@
+<p><script>
+  if (&#39;registerElement&#39; in document
+    &amp;&amp; &#39;createShadowRoot&#39; in HTMLElement.prototype
+    &amp;&amp; &#39;import&#39; in document.createElement(&#39;link&#39;)
+    &amp;&amp; &#39;content&#39; in document.createElement(&#39;template&#39;)) {
+    // We&#39;re using a browser with native WC support!
+  } else {
+    document.write(&#39;<script src="https:\/\/cdnjs.cloudflare.com/ajax/libs/polymer/0.3.4/platform.js">&lt;\/script&gt;&#39;)
+  }
+</script></p>
+<p><link rel="import" href="x-gif.html"></p>
 <p><p><link rel="stylesheet" href="css/main.css"/></p></p>
 <style>
 body, p, div, html {
@@ -13,7 +24,7 @@ body {
 </style>
 
 <h1 id="tiny-village-horizontally-scaling-society">Tiny Village: Horizontally Scaling Society</h1>
-<p><img src="intro.gif"/></p>
+<p><x-gif speed="0.5" n-times="3.0" src="intro.gif"></x-gif></p>
 <h2 id="introduction">Introduction</h2>
 <p>Sustainability means moving away from the infinite growth paradigm towards one where resources are recognized as being finite.  One of those key resources for human society is land.  In my opinion, land usage in modern suburbia is amazingly bad, and suburban land is one of the most underutilized resources remaining.</p>
 <p>Suburban homes have tended recently towards growing larger and larger.  This means increasing use of resources for heating and cooling of rooms that usually are mostly empty space.  At the same time, anywhere land is not obviously at a premium, homes often have large back yards.  These back yards are blank spaces in our sustainability plan.  About 95% of the time they are used mainly as a place for the family dog to defecate.  5% of the time a child plays there, and another 5% of the time someone putters in a tiny garden that produces next to nothing.  Often back yards are mainly for vanity.</p>
