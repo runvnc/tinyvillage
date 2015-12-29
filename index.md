@@ -34,7 +34,7 @@ I propose that we move our human development and zoning towards a similar horizo
 ## Decentralization and Just Right Density
 
 Urban centers maximize density which leads to over-centralization, causing ever-increasing problems in terms of transit,
-housing, public facilities, and even the (availability of light)[https://www.washingtonpost.com/news/wonk/wp/2015/05/04/in-the-shadows-of-booming-cities-a-tension-between-sunlight-and-prosperity/] which is a show-stopper for a solar-powered community.  
+housing, public facilities, and even the [availability of light](https://www.washingtonpost.com/news/wonk/wp/2015/05/04/in-the-shadows-of-booming-cities-a-tension-between-sunlight-and-prosperity/) which is a show-stopper for a solar-powered community.  
 
 Suburban areas minimize density, leading to ballooning problems with transit, as more and more commuters try to fit onto 
 ever-increasingly crowded freeways, wasting more and more time and fossil fuel to get to and from work or just the grocery store. 
