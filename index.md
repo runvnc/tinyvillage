@@ -31,6 +31,19 @@ The advantage of this is that it takes less initial investment and is easier to 
 
 I propose that we move our human development and zoning towards a similar horizontal scaling architecture.  Instead of putting all of our giant suburban houses in giant suburbs separated by miles from massive agricultural spaces and separate from massive office and industrial areas, lets create smaller self-contained units for everything.  So we can have tiny houses, and near them the supporting tiny agriculture and tiny offices and tiny retail places. 
 
+## Decentralization and Just Right Density
+
+Urban centers maximize density which leads to over-centralization, causing ever-increasing problems in terms of transit,
+housing, public facilities, and even the (availability of light)[https://www.washingtonpost.com/news/wonk/wp/2015/05/04/in-the-shadows-of-booming-cities-a-tension-between-sunlight-and-prosperity/] which is a show-stopper for a solar-powered community.  
+
+Suburban areas minimize density, leading to ballooning problems with transit, as more and more commuters try to fit onto 
+ever-increasingly crowded freeways, wasting more and more time and fossil fuel to get to and from work or just the grocery store. 
+Home owners compete for the largest homes and the largest back yards, which means they are competing to waste as much space and
+energy as possible.
+
+The "urban village" is probably the closest to this tiny village proposal in terms of practical sustainable scaling.  In a way this
+takes the urban village concept a step further.  One difference is the limitation to two stories.
+
 ## Goals
 
 Goals are to improve food security, land use, as well as energy and resource efficiency, reduce commute times, reduce injury and deaths from vehicle accidents, and overall increase quality of life.
