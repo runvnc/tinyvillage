@@ -1,6 +1,7 @@
 # Tiny Village: Horizontally Scaling Society
 
-<img src="intro.gif"></x-gif>
+<video controls="controls" width="720" height="480" name="Tiny Village Concept" src="phase1full.mov"></video>
+
 
 ## Introduction
 
