@@ -2,7 +2,7 @@
 
 <img src="default.png"/>
 
-<video controls="controls" width="1280" height="720" name="Tiny Village Concept" src="phase1full.mov"></video>
+<video controls="controls" width="1280" height="720" name="Tiny Village Concept" src="intro.mp4"></video>
 
 
 ## Introduction
