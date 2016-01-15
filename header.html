@@ -11,5 +11,36 @@ body {
  margin: 2em;
 }
 
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li.menu {
+    float: left;
+}
+
+li.menu a, li.menu a:visited {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.menu a:hover {
+    background-color: #111;
+}
 </style>
+
+<div>
+<ul class="menu">
+  <li class="menu"><a class="active" href="/tinyvillage">Home</a></li>
+  <li class="menu"><a href="#about">About</a></li>
+  <li class="menu"><a href="https://github.com/runvnc/tinyvillage">Github</a></li>
+</ul>
+</div>
 

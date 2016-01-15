@@ -109,4 +109,9 @@ To improve safety and reduce noise pollution in village areas:
 * maximum speed is 25 mph 
 * human powered transport like bicycles, recumbant trikes, and velomobiles are encouraged
 
- 
+# About
+
+Tiny Village concepts by [Jason Livesay](https://github.com/runvnc).
+Design, 3D modeling, animation and illustration by [Jay Engstrom](https://jengartist.wordpress.com/).
+
+Please feel free to contribute or fork on [github](https://github.com/runvnc/tinyvillage).
