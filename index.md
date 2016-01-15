@@ -73,7 +73,7 @@ agricultural space, commercial space, and also encourages people
 to run businesses out of their homes.  Structure height is limited
 to a maximum of two stories.
 
-## Passive Tiny Homes
+## Passive or Net-Zero Tiny Homes
 
 Regulations for residential construction can specify 
 passive/efficient requirements such as maximal insulation, airtight 
