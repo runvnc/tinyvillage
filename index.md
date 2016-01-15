@@ -1,4 +1,4 @@
-# Tiny Village: Horizontally Scaling Society
+# Tiny Villages: Horizontally Scaling Society
 
 <img src="default.png"/>
 
