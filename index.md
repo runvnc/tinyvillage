@@ -109,6 +109,63 @@ To improve safety and reduce noise pollution in village areas:
 * maximum speed is 25 mph 
 * human powered transport like bicycles, recumbant trikes, and velomobiles are encouraged
 
+## Scaling Neighboorhoods/Towns
+
+There will need to be a certain amount of open space, which can also partly serve for
+additional agriculture.  So for say each 4 tiny villages/plots there could be a 
+tiny park the size of one 60x60 plot.  Here is an idea for a 'tiny park' layout:
+
+
+F: dwarf fruit tree   a:alfalfa
+N: dwarf nut tree  g: grass        
+x: goat  HH: goat house
+k: goat kid =||: goat run
+
+FaNaFaNaFaN
+a=========a
+N||aggga||F 
+a||ggggg|xa    
+F||ggggg|kN
+a||gggggHHa
+N||aggga||F
+a=========a
+FaNaFaNaFaN
+
+
+Roads can be solar roadways and narrowed a bit since most vehicles are single-passenger.
+Along the sides of all roads should be alternating dwarf fruit trees, wheat, and dwarf nut trees.
+
+Example overall layout of each neighborhood:
+
+ w: wilderness corridor (undeveloped, no people)
+ p: tiny park   -|: solar roadway
+ v: tiny village
+
+ -----------
+ wwwwwwwwwww
+ wwwwwwwwwww
+ wwwwwwwwwww
+ wwwwwwwwwww
+ wwwwwwwwwww
+ wwwwwwwwwww
+ -----------
+ vvvvpvvvvp|
+ -----------
+ vvvvpvvvvp|
+ -----------
+ vvvvpvvvvp| 
+ -----------
+ vvvvpvvvvp|
+ -----------
+ vvvvpvvvvp|
+ -----------
+ vvvvpvvvvp|
+ -----------
+ vvvvpvvvvp|
+ -----------
+ vvvvpvvvvp|
+ -----------
+
 # About
 
 Tiny Village concepts by [Jason Livesay](https://github.com/runvnc).
