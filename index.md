@@ -1,11 +1,20 @@
 # Tiny Villages: Horizontally Scaling Society
 
+## Horizontal Scaling
+
+Some people may be familiar with "cloud" computing.  Cloud computing is all about horizontally scaling computer architecture.  In other words, instead of building one or two giant super-powerful database servers and one giant application server, one might create many small inexpensive servers that each contain a small database and application within them.
+
+The advantage of this is that it takes less initial investment and is easier to incrementally scale up as you go.
+
+I propose that we move our human development and zoning towards a similar horizontal scaling architecture.  Instead of putting all of our giant suburban houses in giant suburbs separated by miles from massive agricultural spaces and separate from massive office and industrial areas, lets create smaller self-contained units for everything.  So we can have tiny houses, and near them the supporting tiny agriculture and tiny offices and tiny retail places. 
+
+<img src="over.png"/>
+
+
 <img src="default.png"/>
 
 <video controls="controls" width="1280" height="720" name="Tiny Village Concept" src="intro.mp4"></video>
 
-
-## Introduction
 
 Sustainability means moving away from the infinite growth paradigm towards one where resources are recognized as being finite.  One of those key resources for human society is land.  In my opinion, land usage in modern suburbia is amazingly bad, and suburban land is one of the most underutilized resources remaining.
 
@@ -25,14 +34,6 @@ The suggestion is often given to be an RV park, or a tiny "homestead" in a remot
 
 There are some tiny house community developments that are popping up.  The main thing missing from these ideas is the concept of mixed land use which is key to scaling society in a predictable and tractable way.
 
-
-## Horizontal Scaling
-
-Some people may be familiar with "cloud" computing.  Cloud computing is all about horizontally scaling computer architecture.  In other words, instead of building one or two giant super-powerful database servers and one giant application server, one might create many small inexpensive servers that each contain a small database and application within them.
-
-The advantage of this is that it takes less initial investment and is easier to incrementally scale up as you go.
-
-I propose that we move our human development and zoning towards a similar horizontal scaling architecture.  Instead of putting all of our giant suburban houses in giant suburbs separated by miles from massive agricultural spaces and separate from massive office and industrial areas, lets create smaller self-contained units for everything.  So we can have tiny houses, and near them the supporting tiny agriculture and tiny offices and tiny retail places. 
 
 ## Decentralization and Just Right Density
 
