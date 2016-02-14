@@ -6,7 +6,7 @@ Cloud computing is about horizontally (as opposed to vertically) scaling systems
 
 Moving our human development and zoning towards a similar horizontal scaling architecture will make achieving our sustainability goals much more practical. Instead of oversize suburban homes in expansive suburbs far from vast agricultural spaces, and a long commute away from large office and industrial areas, let's create smaller self-contained and more tractable units for everything. This will mean smaller homes bundled next door to smaller agricultural and commercial/industrial buildings.
 
-<img src="over.png"/>
+<img src="over.jpg"/>
 
 
 <img src="default.png"/>
@@ -77,7 +77,8 @@ to a maximum of two stories.
 Regulations for residential construction can specify 
 passive/efficient requirements such as maximal insulation, airtight 
 construction with HRV, cooling tubes or heat pump, solar,
-energy storage, greywater recyling, etc. 
+energy storage, greywater recyling, etc.  Use of systems like Structural Insulated
+Panels may lower labor and energy costs. 
 
 Separate structures will reduce noise pollution and increase
 privacy when compared to attached units.
