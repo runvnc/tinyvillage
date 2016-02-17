@@ -4,7 +4,7 @@
 
 Cloud computing is about horizontally (as opposed to vertically) scaling systems. Instead of building one super-powerful server you create many small inexpensive servers that each contain a small part of the system. There are multiple advantages to "scaling out" rather than "scaling up", such as incrementally improved capacity with little or no downtime and less expensive, more maintainable servers.
 
-Moving our human development and zoning towards a similar horizontal scaling architecture will make achieving our sustainability goals much more practical. Instead of oversize suburban homes in expansive suburbs far from vast agricultural spaces, and a long commute away from large office and industrial areas, let's create smaller self-contained and more tractable units for everything. This will mean smaller homes bundled next door to smaller agricultural and commercial/industrial buildings.
+Moving our human development and zoning towards a similar horizontal scaling architecture will make achieving our sustainability goals much more practical. Instead of oversize homes in expansive suburbs far from vast agricultural spaces, and a long commute away from large office and industrial areas, let's create smaller self-contained and more tractable units for everything. This will mean smaller homes bundled next door to smaller agricultural and commercial/industrial buildings.
 
 <img src="over.jpg"/>
 
