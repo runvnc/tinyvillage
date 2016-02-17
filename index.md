@@ -6,7 +6,7 @@ Cloud computing is about horizontally (as opposed to vertically) scaling systems
 
 Moving our human development and zoning towards a similar horizontal scaling architecture will make achieving our sustainability goals much more practical. Instead of oversize homes in expansive suburbs far from vast agricultural spaces, and a long commute away from large office and industrial areas, let's create smaller self-contained and more tractable units for everything. This will mean smaller homes bundled next door to smaller agricultural and commercial/industrial buildings.
 
-<img src="over.jpg"/>
+<img src="comp.png"/>
 
 
 <img src="default.png"/>
