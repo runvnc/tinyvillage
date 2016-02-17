@@ -118,7 +118,7 @@ tiny park the size of one 60x60 plot.
 Roads can be solar roadways and narrowed a bit since most vehicles are single-passenger.
 The sides of roads can provide more space for agriculture, such as nut trees or wheat.
 
-Significant space should be dedicated to connect wildlife coordidors in each 
+Significant space should be dedicated to connect wildlife cooridors in each 
 development.
 
 # About
