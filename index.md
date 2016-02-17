@@ -56,7 +56,7 @@ The core idea is to subdivide each  residential surburban
 lot into 9 lots.  Given a typical lot size of 60'x60',
 that means each plot is 18'x18' with two 6' passages.
 
-<img src="grid.jpg"/>
+<img src="grid.png"/>
 
 ## Subdivision Zoning
 
