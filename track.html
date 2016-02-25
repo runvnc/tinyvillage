@@ -5,6 +5,8 @@ If you would like to be notified of updates to this project, enter your email he
 <script>
 
 function signup() {
+  var el = document.getElementById('email');
+  var email = el.value;
   var xhr = new XMLHttpRequest();
   xhr.open('GET', 'http://45.79.106.166:8299/save/'+email, true);
 
