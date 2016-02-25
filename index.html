@@ -135,6 +135,25 @@ development.</p>
 Design, 3D modeling, animation and illustration by <a href="https://jengartist.wordpress.com/">Jay Engstrom</a>.</p>
 <p>Please feel free to contribute or fork on <a href="https://github.com/runvnc/tinyvillage">github</a>.</p>
 
+If you would like to be notified of updates to this project, enter your email here:
+
+<input id="email" type="email"/> <button onclick="signup()">Submit</button>
+
+<script>
+
+function signup() {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', 'http://45.79.106.166:8299/save/'+email, true);
+
+  xhr.onload = function(e) {
+    alert("Signed up, thank you :)");
+  };
+
+  xhr.send();
+}
+</script>
+
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
